@@ -45,6 +45,9 @@
 
 **MyGreeting-app** is a simple Front end application that display random greetings from external API, react.js(frontend)
 
+[Back-End Project](https://github.com/isume295/hello-rails-back-end)
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
