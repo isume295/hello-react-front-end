@@ -40,13 +40,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Greetings ] <a name="about-project"></a>
+# 📖 [Greetings] <a name="about-project"></a>
 
 
-**MyGreeting-app** is a simple Front end application that display random greetings from external API, react.js(frontend)
+**MyGreeting-app** is a simple Front-end application that displays random greetings from external API, react.js(frontend)
 
 [Back-End Project](https://github.com/isume295/hello-rails-back-end)
-
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,8 +65,8 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **Easy to the eyes and cultivating at the same time**
-- **Dynamic creation of content** 
+- **Display greeting on screen**
+- **Fetch greeting from external API** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +97,7 @@ Example commands:
 
 using Ubuntu:
 
-```sh
+ 
   cd my-desired-folder
   git clone git@github.com:isume295/hello-react-front-end.git
 ```
@@ -121,7 +120,7 @@ To run the project, execute the following command:
 
 To run tests, run the following command:
 
-- to test the components linter errors  ` npx eslint "**/*.{js,jsx}"`
+- to test components linter errors  ` npx eslint "**/*.{js,jsx}"`
 
 - to test the css linters ` npx stylelint "**/*.{css,scss}"`
  
@@ -173,30 +172,12 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<a href="https://www.flaticon.com/free-icons/recipe" title="recipe icons">Recipe icons created by justicon - Flaticon</a><br />
-
+ 
 - Thanks to all Microverse community
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) 
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
--->
 
 <!-- LICENSE -->
 
